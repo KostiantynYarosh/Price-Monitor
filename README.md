@@ -1,4 +1,4 @@
-# Go Price Monitor
+# Golang Price Monitor
 
 Minimalist TUI for tracking real-time stock (Finnhub) and crypto (Binance) prices.
 
