@@ -2,7 +2,7 @@
 
 Minimalist TUI for tracking real-time stock (Finnhub) and crypto (Binance) prices.
 
-![Go Price Monitor Screenshot](https://media.discordapp.net/attachments/1318707911731576834/1439102999023849483/image.png?ex=69194c9c&is=6917fb1c&hm=949f0f24c9c84c6621bd59d123fd5b1a1b7696395504588d5ad2a8bfd6e11df5&=&format=webp&quality=lossless)
+![Image](https://github.com/user-attachments/assets/c89aa2c4-7b30-4d2c-a17d-87cf3732ff11)
 
 ## Quick Start
 
