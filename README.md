@@ -2,7 +2,7 @@
 
 Minimalist TUI for tracking real-time stock (Finnhub) and crypto (Binance) prices.
 
-![Image](https://github.com/user-attachments/assets/c89aa2c4-7b30-4d2c-a17d-87cf3732ff11)
+<img src="https://github.com/user-attachments/assets/c89aa2c4-7b30-4d2c-a17d-87cf3732ff11" width="50%">
 
 ## Quick Start
 
